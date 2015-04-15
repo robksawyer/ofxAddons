@@ -1,0 +1,3 @@
+[submodule "ofxFTGLES"]
+	path = ofxFTGLES
+	url = https://github.com/fishkingsin/ofxFTGLES.git
