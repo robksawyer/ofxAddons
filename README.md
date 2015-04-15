@@ -1,5 +1,9 @@
-# ruicode Overview
-> Libraries, addons and utilities for [OpenFrameworks](http://openframeworks.cc/).
+# ofxAddons Overview
+> [OpenFrameworks](http://openframeworks.cc/) changes all of the time. Some of these addons may or may not work. For the applicable/useful ones, let's keep them alive. WARNING: Some of these may have even been merged into the base package of OpenFrameworks or possibly one of the [standard addons](https://github.com/openframeworks/openFrameworks/tree/master/addons) included with the [latest build](https://github.com/openframeworks/openFrameworks). Eitherway, for backwards compatibility purposes, they'll live here in all their glory.
+
+---
+
+# Ruicode: Found at and ported from <https://code.google.com/p/ruicode/>
 
 ## ofxCvConvexityDefects
 > OpenFrameworks addon which tracks blobs and calculates convexity defects. Uses the ofxOpenCv addon
@@ -12,7 +16,6 @@
 
 ## ofxCvBrightnessContrast
 > Addon for OpenFrameworks which applies brightness and contrast transformations to images in the ofxOpenCv addon. Adapted from the source of the "OpenCv - Processing and Java Library" here: http://ubaa.net/shared/processing/opencv/
-
 
 ## ofxMarchingCubes
 > Addon for OpenFrameworks implementing a marching cubes algorithm based in this paper by Paul Bourke local.wasp.uwa.edu.au/~pbourke/geometry/polygonise/ now with added STL 3d model export
@@ -40,3 +43,9 @@
 
 ## ofxCvOpticalFlowPyrLK
 > Small OpenFrameworks addon that wraps opencv's Lukas Kanade optical flow pyramid functionality. To be used with ofxOpenCV.
+
+---
+
+# Other: Found who knows where.
+
+## PennerEasing
