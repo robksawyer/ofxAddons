@@ -50,3 +50,6 @@
 
 ### PennerEasing
 > Found in the project <http://runemadsen.com/work/ohland-balloon-visuals/>.
+
+### ofxFTGLES
+> FTGLES opengles font library for iphone. <https://github.com/fishkingsin/ofxFTGLES>
