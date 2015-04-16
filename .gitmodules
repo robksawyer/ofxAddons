@@ -4,3 +4,6 @@
 [submodule "ofxSDL"]
 	path = ofxSDL
 	url = https://github.com/leebyron/ofxSDL
+[submodule "ofx3dutils"]
+	path = ofx3dutils
+	url = https://github.com/robksawyer/ofx3dutils
