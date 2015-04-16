@@ -1,3 +1,6 @@
 [submodule "ofxFTGLES"]
 	path = ofxFTGLES
 	url = https://github.com/fishkingsin/ofxFTGLES.git
+[submodule "ofxSDL"]
+	path = ofxSDL
+	url = https://github.com/leebyron/ofxSDL
